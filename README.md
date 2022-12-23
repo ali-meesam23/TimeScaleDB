@@ -8,3 +8,5 @@ psql -U postgres
 
 \c etfdb; --connect to etfdb database
 \d -- show all table
+
+\q -- exit db
